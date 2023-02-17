@@ -1,3 +1,5 @@
+This project is a follow-along project in Colt Steele's Udemy course, Modern React Bootcamp.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
